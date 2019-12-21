@@ -1,5 +1,5 @@
 {
-    "id": "91e431527cd30fcf39ad7e9465762450",
+    "id": "0af4067b28b2888ef8c9f83882e5f8ab",
     "name": "Digital River Shopper API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "24878334f760c3b7591d5a26208d11f9",
+            "id": "834588e63098bb0387598e64984e95de",
             "name": "Get Oauth20 Authorize",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/oauth20\/authorize",
             "description": "Get oauth20 authorize.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "cc01b1f3093a6e24baf3ee22c924058d",
+            "id": "4d6a23f7a0655d3d66984b2b3f2929b5",
             "name": "Post Oauth20 Token",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/oauth20\/token",
             "description": "Post oauth20 token.",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "311c72ae97ed6bde8fad26342d4aeb5f",
+            "id": "4adaa39a0858038e26496902278b31f3",
             "name": "Post Shoppers",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers",
             "description": "Post shoppers.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "65d855751d80cf6fd15d48d51e5d631a",
+            "id": "d4efa9f2a038ee6036eefe03362ce975",
             "name": "Get Shoppers Api",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers-api",
             "description": "Get shoppers api.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "bf408335beb2a1086e850d4bbb06c2c2",
+            "id": "be32f417197b37e332689ee45aa1303a",
             "name": "Get Shoppers Me",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me",
             "description": "Get shoppers me.",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "53ea5a6e4362696cb4232660bddf58ad",
+            "id": "3b8637465c4ec0c22ce94c4c4820cc04",
             "name": "Post Shoppers Me",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me",
             "description": "Post shoppers me.",
@@ -144,11 +144,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "4ef4d3685d527d7deb10441f0cb905f3",
+            "id": "5ca97c0c116e4c06c9464b499dec0278",
             "name": "Get Shoppers Me Account",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/account",
             "description": "Get shoppers me account.",
@@ -167,11 +167,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "cf553d3af39b5afc422334b088f41fca",
+            "id": "aefd4ef457b7321eb0d89322d127daac",
             "name": "Get Shoppers Me Addresses",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/addresses",
             "description": "Get shoppers me addresses.",
@@ -190,11 +190,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "54290f73ef89f9290ff2c9b2aaa706a0",
+            "id": "1f39e0f42fead2d8f10eb4c10882fad0",
             "name": "Get Shoppers Me Addresses",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/addresses\/{id}",
             "description": "Get shoppers me addresses.",
@@ -221,11 +221,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "2bf541253a5056ee9013df5f5c9e6bfd",
+            "id": "e155404fa50d3211d50e8e2e703101d7",
             "name": "Get Shoppers Me Carts Active",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active",
             "description": "Get shoppers me carts active.",
@@ -244,11 +244,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "e3612535079bc01f27735acc97b0298c",
+            "id": "eecabc474a8c856a31751d9fd6d030ef",
             "name": "Post Shoppers Me Carts Active",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active",
             "description": "Post shoppers me carts active.",
@@ -267,11 +267,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "086056db500a18aa545215b3be7a110d",
+            "id": "aaaab226e29b0088751ce60d95397f38",
             "name": "Post Shoppers Me Carts Active Apply Shipping Option",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/apply-shipping-option",
             "description": "Post shoppers me carts active apply shipping option.",
@@ -290,11 +290,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "65899f52905f38cc0749c792fed5e88f",
+            "id": "8c6f9350b1380bcba62a20e3dbf79377",
             "name": "Post Shoppers Me Carts Active Apply Shopper",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/apply-shopper",
             "description": "Post shoppers me carts active apply shopper.",
@@ -313,11 +313,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "8ba633160c007efd98c1dc243b1e062a",
+            "id": "203ac149e4860c72808f2aa0e0b8788c",
             "name": "Get Shoppers Me Carts Active Billing Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/billing-address",
             "description": "Get shoppers me carts active billing address.",
@@ -336,11 +336,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "3ff7eeb264d2b89dc26f9d4d236a9b7f",
+            "id": "92cfb9e4eb5e6af7461ff0677aa53c41",
             "name": "Put Shoppers Me Carts Active Billing Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/billing-address",
             "description": "Put shoppers me carts active billing address.",
@@ -359,11 +359,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "5363098db86b323f1336e748032a1eff",
+            "id": "8fe1fc40c6eb6ebfd3601a0bd6236821",
             "name": "Delete Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items",
             "description": "Delete shoppers me carts active line items.",
@@ -382,11 +382,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "028d4334f5cad2fd982698884b3aaa68",
+            "id": "e973e4a2adfecaf503d068e8467d6a21",
             "name": "Get Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items",
             "description": "Get shoppers me carts active line items.",
@@ -405,11 +405,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "cb124f435efc8429c7c277ca140c734c",
+            "id": "dee583732ceb97f30cc4fe77003a8d8f",
             "name": "Post Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items",
             "description": "Post shoppers me carts active line items.",
@@ -428,11 +428,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "ccc4e4396321e138fb353b1bc5452489",
+            "id": "a1c230f84b4b0e097062102c1d3aeeae",
             "name": "Delete Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items\/{id}",
             "description": "Delete shoppers me carts active line items.",
@@ -459,11 +459,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "ba034fef936fca1ee59a897f499d0a72",
+            "id": "695644b6f1eb43a4f11655c5a6d2bdf2",
             "name": "Get Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items\/{id}",
             "description": "Get shoppers me carts active line items.",
@@ -490,11 +490,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "cf9d3b0f3ce37b58d97655b05ab43a78",
+            "id": "e139c94f0df2e59c88b0df43a2dbeb0b",
             "name": "Post Shoppers Me Carts Active Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/line-items\/{id}",
             "description": "Post shoppers me carts active line items.",
@@ -521,11 +521,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "9ebc55e1813e55bce77c24c045b86011",
+            "id": "bc49e0c2c12184080d8dcd6745130aeb",
             "name": "Get Shoppers Me Carts Active Point Of Promotions Offers",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/point-of-promotions\/{id}\/offers",
             "description": "Get shoppers me carts active point of promotions offers.",
@@ -552,11 +552,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "37ffc1ce901af54b260f66aaaf688978",
+            "id": "0823895be3827bb256ff31c853d0f44f",
             "name": "Get Shoppers Me Carts Active Shipping Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/shipping-address",
             "description": "Get shoppers me carts active shipping address.",
@@ -575,11 +575,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "d3cd10e7f209e8e71745ae4644a7f1fe",
+            "id": "e297e1ae83a457ce02e62b7a32d1c1c4",
             "name": "Put Shoppers Me Carts Active Shipping Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/shipping-address",
             "description": "Put shoppers me carts active shipping address.",
@@ -598,11 +598,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "1139121ed45b798ea28d42949ddbd8c7",
+            "id": "caeaedbb7329bffdc0c475109b9bba19",
             "name": "Get Shoppers Me Carts Active Shipping Options",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/shipping-options",
             "description": "Get shoppers me carts active shipping options.",
@@ -621,11 +621,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "0bcdde6548b9b321ea1e5451be95d493",
+            "id": "a81271349846d62b5155bf27458cb789",
             "name": "Get Shoppers Me Carts Active Shipping Options",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/shipping-options\/{id}",
             "description": "Get shoppers me carts active shipping options.",
@@ -652,11 +652,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "ca18ac5ebf6782890a3c14d22c18d5bf",
+            "id": "0e802515ccfc59263df6cf6d2009b70f",
             "name": "Post Shoppers Me Carts Active Submit Cart",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/submit-cart",
             "description": "Post shoppers me carts active submit cart.",
@@ -675,11 +675,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "b3f088a0dde16c937832ec36c1b02b53",
+            "id": "a84aecbadc8384ee6a75b8c6fef72849",
             "name": "Get Shoppers Me Carts Active Web Checkout",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/web-checkout",
             "description": "Get shoppers me carts active web checkout.",
@@ -698,11 +698,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "313094416a1b4d5a781a18f347534626",
+            "id": "9573f12cca89753d72af086cc0a9fa7c",
             "name": "Post Shoppers Me Carts Active Web Checkout",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/carts\/active\/web-checkout",
             "description": "Post shoppers me carts active web checkout.",
@@ -721,11 +721,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "6451f52311e3aa63c5792bb5fd407c5a",
+            "id": "df5f1f41067fc8d6038b45516dd57327",
             "name": "Get Shoppers Me Categories",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/categories",
             "description": "Get shoppers me categories.",
@@ -744,11 +744,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "2a51ceb9556b758ebbe04e3a4902fa32",
+            "id": "bff3366b48e90033cbdfa9071a63c616",
             "name": "Get Shoppers Me Categories",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/categories\/{id}",
             "description": "Get shoppers me categories.",
@@ -775,11 +775,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "c8270554afca3bc1e34508b363ee162e",
+            "id": "4a53f3e52623f3cff0138d1fc0a82285",
             "name": "Get Shoppers Me Categories Products",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/categories\/{id}\/products",
             "description": "Get shoppers me categories products.",
@@ -806,11 +806,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "f5a98eca23afaeec4799bfe2f6c8e3b3",
+            "id": "986f5b6077e4cb8af2f3846ec6b5abea",
             "name": "Get Shoppers Me Orders",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders",
             "description": "Get shoppers me orders.",
@@ -829,11 +829,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "7de1b5235e6ed7e41af0f5ec3cf15153",
+            "id": "2c3ffb64ac13ad7e5cebe28885d5b17a",
             "name": "Post Shoppers Me Orders",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders",
             "description": "Post shoppers me orders.",
@@ -852,11 +852,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "18c6f856f786f9c8e416f51f06542f64",
+            "id": "d35512536d819995cb46a0460ddcc903",
             "name": "Get Shoppers Me Orders",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders\/{id}",
             "description": "Get shoppers me orders.",
@@ -883,11 +883,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "0f0ea69b931c387cfb1ffa71efbea7be",
+            "id": "2d705d04f8e13fc3c97d6a30644cfbb5",
             "name": "Get Shoppers Me Orders Billing Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders\/{id}\/billing-address",
             "description": "Get shoppers me orders billing address.",
@@ -914,11 +914,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "de2513dfe1272e3616cc075b046477b8",
+            "id": "b983f732f2046511ee8a681c160b1632",
             "name": "Get Shoppers Me Orders Line Items",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders\/{id}\/line-items",
             "description": "Get shoppers me orders line items.",
@@ -945,11 +945,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "0e90812228c8fb7fe8a8595c1563885a",
+            "id": "f4df91dad9956008ab5ca602d7601bc8",
             "name": "Get Shoppers Me Orders Line Items Lineitemid",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders\/{id}\/line-items\/{lineItemId}",
             "description": "Get shoppers me orders line items lineitemid.",
@@ -983,11 +983,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "9093a38ad78f05dc4f7b1e73f6db4a4f",
+            "id": "330c536cabc435820073a99e949498e1",
             "name": "Get Shoppers Me Orders Shipping Address",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/orders\/{id}\/shipping-address",
             "description": "Get shoppers me orders shipping address.",
@@ -1014,11 +1014,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "3186cd763da1913d1bd2d8ef040f1d8a",
+            "id": "c46eeef071aac0286117200ff32be11b",
             "name": "Get Shoppers Me Payment Options",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/payment-options",
             "description": "Get shoppers me payment options.",
@@ -1037,11 +1037,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "03c4923d5e71ae0513a7fc3b1c6d2762",
+            "id": "5b7b4c14f660b49a3cd4367683b30568",
             "name": "Get Shoppers Me Payment Options",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/payment-options\/{id}",
             "description": "Get shoppers me payment options.",
@@ -1068,11 +1068,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "5e5c068fc2513c09aa4f08e3bb026780",
+            "id": "f1bca4a5d441137a7909cf956322baa0",
             "name": "Get Shoppers Me Point Of Promotions Offers",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/point-of-promotions\/{id}\/offers",
             "description": "Get shoppers me point of promotions offers.",
@@ -1099,11 +1099,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "189a1f920dd9e031928487495e2ee26f",
+            "id": "412254496b0971cabe96bf305965099f",
             "name": "Get Shoppers Me Point Of Promotions Offers Offerid",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/point-of-promotions\/{id}\/offers\/{offerId}",
             "description": "Get shoppers me point of promotions offers offerid.",
@@ -1137,11 +1137,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "42669c66ea3b8a16f3b5c86684bc7875",
+            "id": "28464d86c43b06d5bab990a9a2a517ef",
             "name": "Get Shoppers Me Point Of Promotions Offers Offerid Product Offers",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/point-of-promotions\/{id}\/offers\/{offerId}\/product-offers",
             "description": "Get shoppers me point of promotions offers offerid product offers.",
@@ -1175,11 +1175,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "a4a515f1c83cf55beba83b102d141b23",
+            "id": "a582582707d41534fbf33ca1059775af",
             "name": "Get Shoppers Me Point Of Promotions Offers Offerid Product Offers Productid",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/point-of-promotions\/{id}\/offers\/{offerId}\/product-offers\/{productId}",
             "description": "Get shoppers me point of promotions offers offerid product offers productid.",
@@ -1220,11 +1220,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "29774209b4849a89399880d142707396",
+            "id": "d0b75cb67ba7d4fe9ceb28b1a1dd2dbb",
             "name": "Get Shoppers Me Product Search",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/product-search",
             "description": "Get shoppers me product search.",
@@ -1243,11 +1243,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "cae5c51caf8bd849e3c964607bfd1de1",
+            "id": "bd8b81634af352f211c905075d28be25",
             "name": "Get Shoppers Me Products",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/products",
             "description": "Get shoppers me products.",
@@ -1266,11 +1266,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "58b601089ce37c16afea84c5e5efd470",
+            "id": "d1cacd8df31701c3dadf2038f53decba",
             "name": "Get Shoppers Me Products",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/products\/{id}",
             "description": "Get shoppers me products.",
@@ -1297,11 +1297,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "6c4178d2cfca4c66e6222eabe9a6156d",
+            "id": "7300db2dfa135093fc42911c1bf67daf",
             "name": "Get Shoppers Me Products Point Of Promotions Popid Offers",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/products\/{id}\/point-of-promotions\/{popId}\/offers",
             "description": "Get shoppers me products point of promotions popid offers.",
@@ -1335,11 +1335,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "8fcc9c40f74f9933f0aeba113c14c217",
+            "id": "2eff8ccae32e888cc9d64f98b5c129fc",
             "name": "Post Shoppers Me Products Purchase",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/products\/{id}\/purchase",
             "description": "Post shoppers me products purchase.",
@@ -1366,11 +1366,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "bd8c9f737c831c555f589c21a3caf7cf",
+            "id": "55d0be504eb70e454708d6abaa21e80d",
             "name": "Get Shoppers Me Products Variations",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/products\/{id}\/variations",
             "description": "Get shoppers me products variations.",
@@ -1397,11 +1397,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "d64f81b8c50915742960e9f45222464a",
+            "id": "95d95e492c4c7fca446f366eb13d5084",
             "name": "Post Shoppers Me Purchase Plan Authorize",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/purchase-plan\/authorize",
             "description": "Post shoppers me purchase plan authorize.",
@@ -1420,11 +1420,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "f148f39f0d852f6fb077ac292e06178b",
+            "id": "3b3dc1944851e70ccf1b5e54a7ae7568",
             "name": "Get Shoppers Me Purchase Plan Search",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/me\/purchase-plan\/search",
             "description": "Get shoppers me purchase plan search.",
@@ -1443,11 +1443,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         },
         {
-            "id": "dce6b64fc52caf1b2cb67096c87a946c",
+            "id": "5bedaa85c9e5240326978e2a79a65ebc",
             "name": "Get Shoppers Token",
             "url": "httpsstore.digitalriver.com\/store\/{mysite}\/v1\/shoppers\/token",
             "description": "Get shoppers token.",
@@ -1466,7 +1466,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "91e431527cd30fcf39ad7e9465762450",
+            "collectionId": "0af4067b28b2888ef8c9f83882e5f8ab",
             "rawModeData": ""
         }
     ]
